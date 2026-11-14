@@ -275,47 +275,90 @@ namespace Manimal.Halloween2026.Client
             }
 
             var hidden = 0;
+            var found = new HashSet<Hidden>();
             for (var s = 0; s < SceneManager.sceneCount; s++)
             {
                 var scene = SceneManager.GetSceneAt(s);
-                if (!byScene.TryGetValue(scene.name, out var wanted))
+                if (byScene.TryGetValue(scene.name, out var wanted))
+                {
+                    hidden += HideIn(scene, wanted, found);
+                }
+            }
+
+            // this client keeps some retail objects in another scene of the same map: same name, same place
+            var left = new List<Hidden>();
+            for (var i = 0; i < rows.Count; i++)
+            {
+                if (!found.Contains(rows[i]))
+                {
+                    left.Add(rows[i]);
+                }
+            }
+
+            for (var s = 0; left.Count > 0 && s < SceneManager.sceneCount; s++)
+            {
+                var scene = SceneManager.GetSceneAt(s);
+                if (!scene.isLoaded || scene.name == SceneName || byScene.ContainsKey(scene.name))
                 {
                     continue;
                 }
 
-                var names = new Dictionary<string, List<Hidden>>(StringComparer.Ordinal);
-                for (var i = 0; i < wanted.Count; i++)
+                var sameMap = new List<Hidden>();
+                for (var i = 0; i < left.Count; i++)
                 {
-                    if (!names.TryGetValue(wanted[i].Name, out var list))
+                    var cut = left[i].Scene.IndexOf('_');
+                    if (!found.Contains(left[i]) && cut > 0 && scene.name.StartsWith(left[i].Scene.Substring(0, cut + 1), StringComparison.OrdinalIgnoreCase))
                     {
-                        names[wanted[i].Name] = list = new List<Hidden>();
+                        sameMap.Add(left[i]);
                     }
-
-                    list.Add(wanted[i]);
                 }
 
-                var roots = scene.GetRootGameObjects();
-                for (var r = 0; r < roots.Length; r++)
+                if (sameMap.Count > 0)
                 {
-                    var transforms = roots[r].GetComponentsInChildren<Transform>(true);
-                    for (var i = 0; i < transforms.Length; i++)
-                    {
-                        var transform = transforms[i];
-                        if (!names.TryGetValue(transform.name, out var candidates))
-                        {
-                            continue;
-                        }
+                    hidden += HideIn(scene, sameMap, found);
+                }
+            }
 
-                        var position = transform.position;
-                        for (var c = 0; c < candidates.Count; c++)
+            return hidden;
+        }
+
+        private static int HideIn(Scene scene, List<Hidden> wanted, HashSet<Hidden> found)
+        {
+            var names = new Dictionary<string, List<Hidden>>(StringComparer.Ordinal);
+            for (var i = 0; i < wanted.Count; i++)
+            {
+                if (!names.TryGetValue(wanted[i].Name, out var list))
+                {
+                    names[wanted[i].Name] = list = new List<Hidden>();
+                }
+
+                list.Add(wanted[i]);
+            }
+
+            var hidden = 0;
+            var roots = scene.GetRootGameObjects();
+            for (var r = 0; r < roots.Length; r++)
+            {
+                var transforms = roots[r].GetComponentsInChildren<Transform>(true);
+                for (var i = 0; i < transforms.Length; i++)
+                {
+                    var transform = transforms[i];
+                    if (!names.TryGetValue(transform.name, out var candidates))
+                    {
+                        continue;
+                    }
+
+                    var position = transform.position;
+                    for (var c = 0; c < candidates.Count; c++)
+                    {
+                        var p = candidates[c].Position;
+                        if (!found.Contains(candidates[c])
+                            && Mathf.Abs(position.x - p[0]) < 0.05f && Mathf.Abs(position.y - p[1]) < 0.05f && Mathf.Abs(position.z - p[2]) < 0.05f)
                         {
-                            var p = candidates[c].Position;
-                            if (Mathf.Abs(position.x - p[0]) < 0.05f && Mathf.Abs(position.y - p[1]) < 0.05f && Mathf.Abs(position.z - p[2]) < 0.05f)
-                            {
-                                transform.gameObject.SetActive(false);
-                                hidden++;
-                                break;
-                            }
+                            transform.gameObject.SetActive(false);
+                            found.Add(candidates[c]);
+                            hidden++;
+                            break;
                         }
                     }
                 }

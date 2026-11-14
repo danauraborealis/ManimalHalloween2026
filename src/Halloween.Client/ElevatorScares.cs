@@ -23,6 +23,7 @@ namespace Manimal.Halloween2026.Client
                 }
 
                 var ready = 0;
+                var armed = new System.Collections.Generic.List<Transform>();
                 var roots = scene.GetRootGameObjects();
                 for (var r = 0; r < roots.Length; r++)
                 {
@@ -32,16 +33,88 @@ namespace Manimal.Halloween2026.Client
                         if (all[i].name.StartsWith(RootName, StringComparison.Ordinal) && Arm(all[i]))
                         {
                             ready++;
+                            armed.Add(all[i]);
                         }
                     }
                 }
 
-                Plugin.Log.LogInfo($"[Halloween2026] {ready} elevator scares ready");
+                var covers = HideStockDoors(armed);
+                Plugin.Log.LogInfo($"[Halloween2026] {ready} elevator scares ready"
+                    + (covers > 0 ? $", {covers} stock lift door(s) standing in their doorways hidden" : ""));
             }
             catch (Exception e)
             {
                 Plugin.Log.LogError($"[Halloween2026] setting up the elevator scares failed: {e}");
             }
+        }
+
+        // the stock map has a shut lift where an event elevator stands. its slab fills the same doorway,
+        // so the event's doors open behind it and the scene inside is never seen
+        private static int HideStockDoors(System.Collections.Generic.List<Transform> pieces)
+        {
+            var frames = new System.Collections.Generic.List<Bounds>();
+            for (var p = 0; p < pieces.Count; p++)
+            {
+                // the doorway frame is the piece's own first-level mesh
+                for (var c = 0; c < pieces[p].childCount; c++)
+                {
+                    var child = pieces[p].GetChild(c);
+                    var renderer = child.GetComponent<MeshRenderer>();
+                    if (renderer && child.name.EndsWith("_LOD0", StringComparison.Ordinal) && child.name.IndexOf("SHADOW", StringComparison.Ordinal) < 0)
+                    {
+                        frames.Add(renderer.bounds);
+                    }
+                }
+            }
+
+            if (frames.Count == 0)
+            {
+                return 0;
+            }
+
+            var hidden = 0;
+            var all = UnityEngine.Object.FindObjectsOfType<MeshRenderer>();
+            for (var i = 0; i < all.Length; i++)
+            {
+                var renderer = all[i];
+                if (!renderer || !renderer.gameObject.scene.name.StartsWith(LabsLayer.NativePrefix, StringComparison.Ordinal))
+                {
+                    continue;
+                }
+
+                var bounds = renderer.bounds;
+                for (var f = 0; f < frames.Count; f++)
+                {
+                    var size = bounds.size - frames[f].size;
+                    if ((bounds.center - frames[f].center).sqrMagnitude > 0.04f
+                        || Mathf.Abs(size.x) > 0.25f || Mathf.Abs(size.y) > 0.25f || Mathf.Abs(size.z) > 0.25f)
+                    {
+                        continue;
+                    }
+
+                    // the whole prop: its lods and its collider. deactivated, never destroyed
+                    var prop = renderer.transform;
+                    for (var up = renderer.transform; up; up = up.parent)
+                    {
+                        if (up.GetComponent<LODGroup>())
+                        {
+                            prop = up;
+                            break;
+                        }
+                    }
+
+                    if (prop.gameObject.activeSelf)
+                    {
+                        prop.gameObject.SetActive(false);
+                        hidden++;
+                        Plugin.Log.LogInfo($"[Halloween2026] stock lift door '{prop.name}' in {prop.gameObject.scene.name} hidden");
+                    }
+
+                    break;
+                }
+            }
+
+            return hidden;
         }
 
         private static bool Arm(Transform piece)
