@@ -5,7 +5,7 @@
     <ModAuthor>Manimal</ModAuthor>
     <ModName>Halloween2026</ModName>
     <ModClientName>$(ModAuthor)-$(ModName)</ModClientName>
-    <ModSourceUrl></ModSourceUrl>
+    <ModSourceUrl>https://github.com/danauraborealis/ManimalHalloween2026</ModSourceUrl>
     <ModCodeLicense>MIT</ModCodeLicense>
     <ModDataLicense>CC-BY-NC-SA-4.0</ModDataLicense>
     <SupportedSptRange>&gt;=4.1.6 &lt;4.2.0</SupportedSptRange>
