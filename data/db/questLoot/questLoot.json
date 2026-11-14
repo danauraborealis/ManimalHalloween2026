@@ -1,0 +1,3446 @@
+{
+  "interchange": {
+    "forced": [],
+    "spawnpoints": [
+      {
+        "locationId": "(67,17737, 37,22481, 41,423706)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_loot_med (111) [e6bf0536-196d-431e-8763-8d320fad57b1]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 67.17737,
+            "y": 37.22481,
+            "z": 41.423706
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385f5bf8cff901316aff9",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385f5bf8cff901316aff9",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(64,46643, 37,75281, 41,39673)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_loot_med (118) [07be6777-957b-4b29-ac06-1a0370248fb2]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 64.46643,
+            "y": 37.75281,
+            "z": 41.39673
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38590388bf9e4a50cdaf2",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38590388bf9e4a50cdaf2",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(64,704346, 37,22481, 41,002686)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_loot_med (120) [156c6e5d-1c1d-41a2-94b5-be499a97007b]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 64.704346,
+            "y": 37.22481,
+            "z": 41.002686
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38590388bf9e4a50cdcb0",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38590388bf9e4a50cdcb0",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(66,12134, 38,24281, 41,222656)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_loot_med (124) [6b5dfc79-2d1f-4c04-acf4-4ef1552e0e50]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 66.12134,
+            "y": 38.24281,
+            "z": 41.222656
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae3863eee90097227110f17",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae3863eee90097227110f17",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(64,925415, 37,75281, 41,39673)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_loot_med (78) [43c03402-dcbd-4609-8ee2-ee2c5a855d91]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 64.925415,
+            "y": 37.75281,
+            "z": 41.39673
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d4cf41f179301958c5",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d4cf41f179301958c5",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(63,486416, 22,563814, -253,25133)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_med_suplies_ultra_super (10) [0f2b10fe-9b51-4550-a6f6-c7f2ba416d92]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 63.486416,
+            "y": 22.563814,
+            "z": -253.25133
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 213,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d4cf41f1793019572c",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d4cf41f1793019572c",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(63,414803, 22,552814, -254,83597)",
+        "probability": 0.006042296072507553,
+        "template": {
+          "Id": "halloween2026_med_suplies_ultra_super (11) [3f537ce2-cdad-45d0-8af0-ee6552473e27]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 63.414803,
+            "y": 22.552814,
+            "z": -254.83597
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 213,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385f5bf8cff901316b028",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385f5bf8cff901316b028",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 2
+          }
+        ]
+      },
+      {
+        "locationId": "(63,461132, 22,483814, -255,84976)",
+        "probability": 0.003021148036253777,
+        "template": {
+          "Id": "halloween2026_med_suplies_ultra_super (12) [0f4d53c3-ccea-4c47-9a7a-53c471452a0f]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 63.461132,
+            "y": 22.483814,
+            "z": -255.84976
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 213,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d4cf41f17930195620",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d4cf41f17930195620",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(59,750603, 22,571814, -254,7553)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_med_suplies_ultra_super (5) [7430ef85-5e9c-4ce6-a563-94727a2ede92]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 59.750603,
+            "y": 22.571814,
+            "z": -254.7553
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 213,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38660c766d14fcf0e813e",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38660c766d14fcf0e813e",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(60,45084, 22,513813, -259,81137)",
+        "probability": 0.003021148036253777,
+        "template": {
+          "Id": "halloween2026_med_suplies_ultra_super [9c920870-6d20-4515-a4de-cd8cd670c8e6]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 60.45084,
+            "y": 22.513813,
+            "z": -259.81137
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 213,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385b2618eaf0aea10b7b2",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385b2618eaf0aea10b7b2",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-344,567, 23,12, -45,002)",
+        "probability": 0.005941591137965761,
+        "template": {
+          "Id": "halloween2026_meds_jeverly (11) [f7b2fe64-34d9-4b6d-913f-337d3e636f50]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -344.567,
+            "y": 23.12,
+            "z": -45.002
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 334.7356,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38660c766d14fcf0e82a0",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38660c766d14fcf0e82a0",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 2
+          }
+        ]
+      },
+      {
+        "locationId": "(475,485, 28,718, 148,334)",
+        "probability": 0.0030211480362537764,
+        "template": {
+          "Id": "halloween2026_meds_jeverly (16) [ee9cceb2-a9a0-4e99-abad-e944b01adb6a]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 475.485,
+            "y": 28.718,
+            "z": 148.334
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 334.7356,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae3854dc460f8536b13ab2e",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae3854dc460f8536b13ab2e",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      }
+    ]
+  },
+  "laboratory": {
+    "forced": [],
+    "spawnpoints": [
+      {
+        "locationId": "(-142,243, 5,166, -401,018)",
+        "probability": 0.0022371364653243847,
+        "template": {
+          "Id": "halloween2026_univ_loot_sup1 (17) [58ebd865-08b1-416e-b187-979e73919740]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -142.243,
+            "y": 5.166,
+            "z": -401.018
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d2782281684518ba86",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d2782281684518ba86",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-253,519, 4,994, -321,258)",
+        "probability": 0.002237136465324385,
+        "template": {
+          "Id": "halloween2026_univ_loot_sup1 [a5abfa4d-12c2-4113-a8e1-8cd034668415]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -253.519,
+            "y": 4.994,
+            "z": -321.258
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d2782281684518b8ee",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d2782281684518b8ee",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      }
+    ]
+  },
+  "laboratory@halloween2026": {
+    "forced": [
+      {
+        "locationId": "(-235,734, 4,793, -347,072)",
+        "probability": 1,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (2) [e0dd26ea-72b9-457c-a5f6-48d27f541e53]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -235.734,
+            "y": 4.793,
+            "z": -347.072
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a85a6",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a85a6",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "locationId": "(-232,605, 4,855, -345,753)",
+        "probability": 1,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector [5293ae27-18dc-475c-af58-287a931661dc]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -232.605,
+            "y": 4.855,
+            "z": -345.753
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a85d6",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a85d6",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "locationId": "(-229,969, 4,85, -341,81)",
+        "probability": 1,
+        "template": {
+          "Id": "car_key [2708a026-9fed-407c-8a1f-87aa0cce08a6]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -229.969,
+            "y": 4.85,
+            "z": -341.81
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a86d7",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a86d7",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "locationId": "(-228,698, 4,645, -344,024)",
+        "probability": 1,
+        "template": {
+          "Id": "car_key (1) [95e2743c-bbf0-4cec-858b-0183fab6ae70]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -228.698,
+            "y": 4.645,
+            "z": -344.024
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a875f",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a875f",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "locationId": "(-235,569, 4,8029, -339,56)",
+        "probability": 1,
+        "template": {
+          "Id": "car_key (2) [ce6c1ae7-a310-45ce-a40d-03115037f3e3]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -235.569,
+            "y": 4.8029,
+            "z": -339.56
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a87a8",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a87a8",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      },
+      {
+        "locationId": "(-228,217, 4,797, -339,898)",
+        "probability": 1,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (1) [7e9a1c81-b93d-4a34-b205-a8e1aa4b0bda]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -228.217,
+            "y": 4.797,
+            "z": -339.898
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb62e89a0ae7d2461a87c8",
+          "Items": [
+            {
+              "_id": "6aeb62e89a0ae7d2461a87c8",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "spawnpoints": [
+      {
+        "locationId": "(-142,243, 5,166, -401,018)",
+        "probability": 0.0022371364653243847,
+        "template": {
+          "Id": "halloween2026_univ_loot_sup1 (17) [58ebd865-08b1-416e-b187-979e73919740]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -142.243,
+            "y": 5.166,
+            "z": -401.018
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d2782281684518ba86",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d2782281684518ba86",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-253,519, 4,994, -321,258)",
+        "probability": 0.002237136465324385,
+        "template": {
+          "Id": "halloween2026_univ_loot_sup1 [a5abfa4d-12c2-4113-a8e1-8cd034668415]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -253.519,
+            "y": 4.994,
+            "z": -321.258
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385d2782281684518b8ee",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385d2782281684518b8ee",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-189,03731, 4,6869984, -394,41415)",
+        "probability": 0.26666666666666666,
+        "template": {
+          "Id": "car_key_random (1) [83625337-24cd-45fa-b7bc-61ae9ea5ae9d]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -189.03731,
+            "y": 4.6869984,
+            "z": -394.41415
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -189.03731,
+                "y": 4.6869984,
+                "z": -394.41415
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -200.42,
+                "y": 4.673996,
+                "z": -403.42758
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -198.90065,
+                "y": 5.0199966,
+                "z": -409.08093
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a8751",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62e89a0ae7d2461a8751",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 8
+          }
+        ]
+      },
+      {
+        "locationId": "(-200,42, 4,673996, -403,42758)",
+        "probability": 0.26666666666666666,
+        "template": {
+          "Id": "car_key_random (1) [83625337-24cd-45fa-b7bc-61ae9ea5ae9d]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -200.42,
+            "y": 4.673996,
+            "z": -403.42758
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -189.03731,
+                "y": 4.6869984,
+                "z": -394.41415
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -200.42,
+                "y": 4.673996,
+                "z": -403.42758
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -198.90065,
+                "y": 5.0199966,
+                "z": -409.08093
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb5c215fc8b256d70c467f",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb5c215fc8b256d70c467f",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 8
+          }
+        ]
+      },
+      {
+        "locationId": "(-198,90065, 5,0199966, -409,08093)",
+        "probability": 0.4666666666666667,
+        "template": {
+          "Id": "car_key_random (1) [83625337-24cd-45fa-b7bc-61ae9ea5ae9d]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -198.90065,
+            "y": 5.0199966,
+            "z": -409.08093
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -189.03731,
+                "y": 4.6869984,
+                "z": -394.41415
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -200.42,
+                "y": 4.673996,
+                "z": -403.42758
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -198.90065,
+                "y": 5.0199966,
+                "z": -409.08093
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb6146d46cbb5cce116a7e",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb6146d46cbb5cce116a7e",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 14
+          }
+        ]
+      },
+      {
+        "locationId": "(-184,94398, 4,9119987, -400,29565)",
+        "probability": 0.3666666666666667,
+        "template": {
+          "Id": "car_key_random (2) [ab2436bc-177b-45db-9e52-c0a08b53d7dd]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -184.94398,
+            "y": 4.9119987,
+            "z": -400.29565
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -188.05807,
+                "y": 4.6829987,
+                "z": -407.37137
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.94398,
+                "y": 4.9119987,
+                "z": -400.29565
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.98686,
+                "y": 4.9059963,
+                "z": -400.24695
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a869e",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62e89a0ae7d2461a869e",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 11
+          }
+        ]
+      },
+      {
+        "locationId": "(-188,05807, 4,6829987, -407,37137)",
+        "probability": 0.33333333333333337,
+        "template": {
+          "Id": "car_key_random (2) [ab2436bc-177b-45db-9e52-c0a08b53d7dd]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -188.05807,
+            "y": 4.6829987,
+            "z": -407.37137
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -188.05807,
+                "y": 4.6829987,
+                "z": -407.37137
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.94398,
+                "y": 4.9119987,
+                "z": -400.29565
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.98686,
+                "y": 4.9059963,
+                "z": -400.24695
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb5c215fc8b256d70c45c6",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb5c215fc8b256d70c45c6",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 10
+          }
+        ]
+      },
+      {
+        "locationId": "(-195,98686, 4,9059963, -400,24695)",
+        "probability": 0.3,
+        "template": {
+          "Id": "car_key_random (2) [ab2436bc-177b-45db-9e52-c0a08b53d7dd]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -195.98686,
+            "y": 4.9059963,
+            "z": -400.24695
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -188.05807,
+                "y": 4.6829987,
+                "z": -407.37137
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.94398,
+                "y": 4.9119987,
+                "z": -400.29565
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.98686,
+                "y": 4.9059963,
+                "z": -400.24695
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb6146d46cbb5cce1168d7",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb6146d46cbb5cce1168d7",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 9
+          }
+        ]
+      },
+      {
+        "locationId": "(-141,30066, 4,663004, -403,8368)",
+        "probability": 0.33333333333333337,
+        "template": {
+          "Id": "car_key_random (3) [d9441b93-7fd9-42c4-8940-cbd4e3281fb5]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -141.30066,
+            "y": 4.663004,
+            "z": -403.8368
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -156.26866,
+                "y": 4.906001,
+                "z": -410.07687
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.30066,
+                "y": 4.663004,
+                "z": -403.8368
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -145.34528,
+                "y": 4.904001,
+                "z": -393.8296
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a870e",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62e89a0ae7d2461a870e",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 10
+          }
+        ]
+      },
+      {
+        "locationId": "(-145,34528, 4,904001, -393,8296)",
+        "probability": 0.4666666666666667,
+        "template": {
+          "Id": "car_key_random (3) [d9441b93-7fd9-42c4-8940-cbd4e3281fb5]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -145.34528,
+            "y": 4.904001,
+            "z": -393.8296
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -156.26866,
+                "y": 4.906001,
+                "z": -410.07687
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.30066,
+                "y": 4.663004,
+                "z": -403.8368
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -145.34528,
+                "y": 4.904001,
+                "z": -393.8296
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb5c215fc8b256d70c44ef",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb5c215fc8b256d70c44ef",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 14
+          }
+        ]
+      },
+      {
+        "locationId": "(-156,26866, 4,906001, -410,07687)",
+        "probability": 0.2,
+        "template": {
+          "Id": "car_key_random (3) [d9441b93-7fd9-42c4-8940-cbd4e3281fb5]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -156.26866,
+            "y": 4.906001,
+            "z": -410.07687
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -156.26866,
+                "y": 4.906001,
+                "z": -410.07687
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.30066,
+                "y": 4.663004,
+                "z": -403.8368
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -145.34528,
+                "y": 4.904001,
+                "z": -393.8296
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62181f8c31a84f10883d",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62181f8c31a84f10883d",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 6
+          }
+        ]
+      },
+      {
+        "locationId": "(-157,1628, 5,250201, -402,20395)",
+        "probability": 0.5333333333333333,
+        "template": {
+          "Id": "car_key_random (4) [25e8c1a7-4af5-427a-8d92-852af40e72eb]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -157.1628,
+            "y": 5.250201,
+            "z": -402.20395
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 354.73956,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.3096,
+                "y": 4.672003,
+                "z": -396.30804
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.30632,
+                "y": 4.6810017,
+                "z": -404.64502
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -157.1628,
+                "y": 5.250201,
+                "z": -402.20395
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 354.73956,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a879a",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62e89a0ae7d2461a879a",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 16
+          }
+        ]
+      },
+      {
+        "locationId": "(-152,3096, 4,672003, -396,30804)",
+        "probability": 0.4,
+        "template": {
+          "Id": "car_key_random (4) [25e8c1a7-4af5-427a-8d92-852af40e72eb]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -152.3096,
+            "y": 4.672003,
+            "z": -396.30804
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.3096,
+                "y": 4.672003,
+                "z": -396.30804
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.30632,
+                "y": 4.6810017,
+                "z": -404.64502
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -157.1628,
+                "y": 5.250201,
+                "z": -402.20395
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 354.73956,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb5c215fc8b256d70c4606",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb5c215fc8b256d70c4606",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 12
+          }
+        ]
+      },
+      {
+        "locationId": "(-152,30632, 4,6810017, -404,64502)",
+        "probability": 0.06666666666666667,
+        "template": {
+          "Id": "car_key_random (4) [25e8c1a7-4af5-427a-8d92-852af40e72eb]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -152.30632,
+            "y": 4.6810017,
+            "z": -404.64502
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.3096,
+                "y": 4.672003,
+                "z": -396.30804
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.30632,
+                "y": 4.6810017,
+                "z": -404.64502
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -157.1628,
+                "y": 5.250201,
+                "z": -402.20395
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 354.73956,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb61b3949a56aed91930cf",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb61b3949a56aed91930cf",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 2
+          }
+        ]
+      },
+      {
+        "locationId": "(-179,20862, 4,9923, -341,26727)",
+        "probability": 0.23333333333333334,
+        "template": {
+          "Id": "car_key_random [b054f6db-5058-4bd0-ac39-adcb6dec3238]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -179.20862,
+            "y": 4.9923,
+            "z": -341.26727
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -179.20862,
+                "y": 4.9923,
+                "z": -341.26727
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -173.50308,
+                "y": 5.1475005,
+                "z": -343.7533
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -169.99144,
+                "y": 5.150901,
+                "z": -342.0852
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a874f",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62e89a0ae7d2461a874f",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 7
+          }
+        ]
+      },
+      {
+        "locationId": "(-169,99144, 5,150901, -342,0852)",
+        "probability": 0.4,
+        "template": {
+          "Id": "car_key_random [b054f6db-5058-4bd0-ac39-adcb6dec3238]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -169.99144,
+            "y": 5.150901,
+            "z": -342.0852
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -179.20862,
+                "y": 4.9923,
+                "z": -341.26727
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -173.50308,
+                "y": 5.1475005,
+                "z": -343.7533
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -169.99144,
+                "y": 5.150901,
+                "z": -342.0852
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb61b3949a56aed9193083",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb61b3949a56aed9193083",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 12
+          }
+        ]
+      },
+      {
+        "locationId": "(-173,50308, 5,1475005, -343,7533)",
+        "probability": 0.3666666666666667,
+        "template": {
+          "Id": "car_key_random [b054f6db-5058-4bd0-ac39-adcb6dec3238]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -173.50308,
+            "y": 5.1475005,
+            "z": -343.7533
+          },
+          "Rotation": {
+            "x": 270,
+            "y": 259.80777,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -179.20862,
+                "y": 4.9923,
+                "z": -341.26727
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -173.50308,
+                "y": 5.1475005,
+                "z": -343.7533
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -169.99144,
+                "y": 5.150901,
+                "z": -342.0852
+              },
+              "Rotation": {
+                "x": 270,
+                "y": 259.80777,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62181f8c31a84f1088be",
+          "Items": [
+            {
+              "composedKey": "-2084027875",
+              "_id": "6aeb62181f8c31a84f1088be",
+              "_tpl": "6ad5f141e8c146f24d0ea9b6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-2084027875"
+            },
+            "relativeProbability": 11
+          }
+        ]
+      },
+      {
+        "locationId": "(-178,852, 5,254, -345,705)",
+        "probability": 0.3,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (3) [58031511-7b61-429a-8771-70b1b6edeb0c]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -178.852,
+            "y": 5.254,
+            "z": -345.705
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.852,
+                "y": 5.254,
+                "z": -345.705
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -168.018,
+                "y": 5.135,
+                "z": -343.498
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.35,
+                "y": 4.9880004,
+                "z": -341.06
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a86f6",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb62e89a0ae7d2461a86f6",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 9
+          }
+        ]
+      },
+      {
+        "locationId": "(-168,018, 5,135, -343,498)",
+        "probability": 0.16666666666666669,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (3) [58031511-7b61-429a-8771-70b1b6edeb0c]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -168.018,
+            "y": 5.135,
+            "z": -343.498
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.852,
+                "y": 5.254,
+                "z": -345.705
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -168.018,
+                "y": 5.135,
+                "z": -343.498
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.35,
+                "y": 4.9880004,
+                "z": -341.06
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb5c215fc8b256d70c4527",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb5c215fc8b256d70c4527",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 5
+          }
+        ]
+      },
+      {
+        "locationId": "(-178,35, 4,9880004, -341,06)",
+        "probability": 0.5333333333333333,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (3) [58031511-7b61-429a-8771-70b1b6edeb0c]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -178.35,
+            "y": 4.9880004,
+            "z": -341.06
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.852,
+                "y": 5.254,
+                "z": -345.705
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -168.018,
+                "y": 5.135,
+                "z": -343.498
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -178.35,
+                "y": 4.9880004,
+                "z": -341.06
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb6286f6b881363b14f554",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb6286f6b881363b14f554",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 16
+          }
+        ]
+      },
+      {
+        "locationId": "(-182,03, 4,531, -407,87)",
+        "probability": 0.4,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (4) [5ced9c20-8c50-4e4b-ba1c-75dce4a22dce]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -182.03,
+            "y": 4.531,
+            "z": -407.87
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.89,
+                "y": 4.901,
+                "z": -394.319
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.528,
+                "y": 5.007,
+                "z": -408.475
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -182.03,
+                "y": 4.531,
+                "z": -407.87
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a85ec",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb62e89a0ae7d2461a85ec",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 12
+          }
+        ]
+      },
+      {
+        "locationId": "(-184,89, 4,901, -394,319)",
+        "probability": 0.43333333333333335,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (4) [5ced9c20-8c50-4e4b-ba1c-75dce4a22dce]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -184.89,
+            "y": 4.901,
+            "z": -394.319
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.89,
+                "y": 4.901,
+                "z": -394.319
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.528,
+                "y": 5.007,
+                "z": -408.475
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -182.03,
+                "y": 4.531,
+                "z": -407.87
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb61b3949a56aed9193087",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb61b3949a56aed9193087",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 13
+          }
+        ]
+      },
+      {
+        "locationId": "(-195,528, 5,007, -408,475)",
+        "probability": 0.16666666666666669,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (4) [5ced9c20-8c50-4e4b-ba1c-75dce4a22dce]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -195.528,
+            "y": 5.007,
+            "z": -408.475
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -184.89,
+                "y": 4.901,
+                "z": -394.319
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -195.528,
+                "y": 5.007,
+                "z": -408.475
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -182.03,
+                "y": 4.531,
+                "z": -407.87
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb6286f6b881363b14f699",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb6286f6b881363b14f699",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 5
+          }
+        ]
+      },
+      {
+        "locationId": "(-143,5448, 4,7250004, -409,5938)",
+        "probability": 0.3,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (5) [4be4e110-00c9-44a9-92cb-b40846f53490]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -143.5448,
+            "y": 4.7250004,
+            "z": -409.5938
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.886,
+                "y": 4.895,
+                "z": -399.339
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.42801,
+                "y": 5.419,
+                "z": -399.373
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -143.5448,
+                "y": 4.7250004,
+                "z": -409.5938
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a869c",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb62e89a0ae7d2461a869c",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 9
+          }
+        ]
+      },
+      {
+        "locationId": "(-152,886, 4,895, -399,339)",
+        "probability": 0.4,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (5) [4be4e110-00c9-44a9-92cb-b40846f53490]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -152.886,
+            "y": 4.895,
+            "z": -399.339
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.886,
+                "y": 4.895,
+                "z": -399.339
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.42801,
+                "y": 5.419,
+                "z": -399.373
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -143.5448,
+                "y": 4.7250004,
+                "z": -409.5938
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb61b3949a56aed9192f87",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb61b3949a56aed9192f87",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 12
+          }
+        ]
+      },
+      {
+        "locationId": "(-141,42801, 5,419, -399,373)",
+        "probability": 0.4666666666666667,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (5) [4be4e110-00c9-44a9-92cb-b40846f53490]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": true,
+          "Position": {
+            "x": -141.42801,
+            "y": 5.419,
+            "z": -399.373
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -152.886,
+                "y": 4.895,
+                "z": -399.339
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.42801,
+                "y": 5.419,
+                "z": -399.373
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -143.5448,
+                "y": 4.7250004,
+                "z": -409.5938
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62181f8c31a84f108837",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb62181f8c31a84f108837",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 18
+          }
+        ]
+      },
+      {
+        "locationId": "(-156,44894, 5,076, -393,67902)",
+        "probability": 0.43333333333333335,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (6) [473075cd-56f5-4b11-a389-f724ac9f2349]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -156.44894,
+            "y": 5.076,
+            "z": -393.67902
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -159.832,
+                "y": 5.2980003,
+                "z": -406.457
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 25.339327
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.42801,
+                "y": 5.419,
+                "z": -399.373
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -156.44894,
+                "y": 5.076,
+                "z": -393.67902
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb62e89a0ae7d2461a8757",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb62e89a0ae7d2461a8757",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 13
+          }
+        ]
+      },
+      {
+        "locationId": "(-159,832, 5,2980003, -406,457)",
+        "probability": 0.26666666666666666,
+        "template": {
+          "Id": "item_secret_extraction_halloween_2026_collector (6) [473075cd-56f5-4b11-a389-f724ac9f2349]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -159.832,
+            "y": 5.2980003,
+            "z": -406.457
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 25.339327
+          },
+          "IsAlwaysSpawn": true,
+          "IsGroupPosition": true,
+          "GroupPositions": [
+            {
+              "Name": "groupPoint[0]",
+              "Weight": 1,
+              "Position": {
+                "x": -159.832,
+                "y": 5.2980003,
+                "z": -406.457
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 25.339327
+              }
+            },
+            {
+              "Name": "groupPoint[1]",
+              "Weight": 1,
+              "Position": {
+                "x": -141.42801,
+                "y": 5.419,
+                "z": -399.373
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            },
+            {
+              "Name": "groupPoint[2]",
+              "Weight": 1,
+              "Position": {
+                "x": -156.44894,
+                "y": 5.076,
+                "z": -393.67902
+              },
+              "Rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          ],
+          "Root": "6aeb6146d46cbb5cce11693b",
+          "Items": [
+            {
+              "composedKey": "-927561278",
+              "_id": "6aeb6146d46cbb5cce11693b",
+              "_tpl": "6ad5f06c0d239d9ef60e7670",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "-927561278"
+            },
+            "relativeProbability": 8
+          }
+        ]
+      }
+    ]
+  },
+  "lighthouse": {
+    "forced": [
+      {
+        "locationId": "(-171,7465, 9,129, -646,0065)",
+        "probability": 0.08310249307479224,
+        "template": {
+          "Id": "item_hall_vakcine_case [b0ef20a2-39e5-47c9-90ec-b0a5caad19f5]",
+          "IsContainer": false,
+          "useGravity": false,
+          "randomRotation": false,
+          "Position": {
+            "x": -171.7465,
+            "y": 9.129,
+            "z": -646.0065
+          },
+          "Rotation": {
+            "x": 1.2318759,
+            "y": 185.734,
+            "z": 1.1008588
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6aeb622cd109b5f09f1ccb55",
+          "Items": [
+            {
+              "_id": "6aeb622cd109b5f09f1ccb55",
+              "_tpl": "6acc4ab371e6deed2d0e5afa",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "spawnpoints": [
+      {
+        "locationId": "(-167,265, 8,202, -470,554)",
+        "probability": 0.002770083102493075,
+        "template": {
+          "Id": "halloween2026_meds1_common (17) [803a2e68-dacc-4889-a39a-58a386d48d1a]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": false,
+          "Position": {
+            "x": -167.265,
+            "y": 8.202,
+            "z": -470.554
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae36d391cb56de23b078942",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae36d391cb56de23b078942",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      }
+    ]
+  },
+  "shoreline": {
+    "forced": [],
+    "spawnpoints": [
+      {
+        "locationId": "(-159,432, -2,244, -89,020996)",
+        "probability": 0.0029239766081871348,
+        "template": {
+          "Id": "halloween2026_LootMeds  [1] (24) [81471c3e-5303-48ba-a7c3-315c8369a5a6]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": false,
+          "Position": {
+            "x": -159.432,
+            "y": -2.244,
+            "z": -89.020996
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 34.86594,
+            "z": -2.1610396e-07
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae3857acf41f1793017f259",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae3857acf41f1793017f259",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-307,771, 0,05, -91,354004)",
+        "probability": 0.0029239766081871343,
+        "template": {
+          "Id": "halloween2026_LootMeds  [1] (67) [cce08b4e-0226-4924-96c0-4b49fc19dd5c]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": false,
+          "Position": {
+            "x": -307.771,
+            "y": 0.05,
+            "z": -91.354004
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 332.86264,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385bfc83ba0fdd70966c5",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385bfc83ba0fdd70966c5",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-337,28296, -2,233, -75,705)",
+        "probability": 0.0029239766081871343,
+        "template": {
+          "Id": "halloween2026_LootMeds  [3] (3) [13e15563-80b3-4ac9-a70a-d43cc4435410]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": false,
+          "Position": {
+            "x": -337.28296,
+            "y": -2.233,
+            "z": -75.705
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 6.929862,
+            "z": 5.4026003e-08
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae385bfc83ba0fdd7096871",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae385bfc83ba0fdd7096871",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      },
+      {
+        "locationId": "(-319,38, -2,73, -76,713)",
+        "probability": 0.0029239766081871343,
+        "template": {
+          "Id": "halloween2026_LootMeds [0] (10) [6c2dde86-17c6-4262-8526-43b1dc9bdd73]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": -319.38,
+            "y": -2.73,
+            "z": -76.713
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38603c83ba0fdd70a7988",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38603c83ba0fdd70a7988",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      }
+    ]
+  },
+  "tarkovstreets": {
+    "forced": [],
+    "spawnpoints": [
+      {
+        "locationId": "(58,537, 3,707, 344,922)",
+        "probability": 0.003012048192771084,
+        "template": {
+          "Id": "halloween2026_Medical_all&suplies_Kochnev_Rare (9) [5d69eb60-2891-409b-b21a-53c45ef77137]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 58.537,
+            "y": 3.707,
+            "z": 344.922
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae3865278228168451a783c",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae3865278228168451a783c",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 1
+          }
+        ]
+      }
+    ]
+  },
+  "woods": {
+    "forced": [],
+    "spawnpoints": [
+      {
+        "locationId": "(284,682, 23,875, -517,30005)",
+        "probability": 0.005797101449275362,
+        "template": {
+          "Id": "halloween2026_MED_stuff_rare (6) [af4de05b-0901-4790-a142-9aa2140d83d7]",
+          "IsContainer": false,
+          "useGravity": true,
+          "randomRotation": true,
+          "Position": {
+            "x": 284.682,
+            "y": 23.875,
+            "z": -517.30005
+          },
+          "Rotation": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "IsAlwaysSpawn": false,
+          "IsGroupPosition": false,
+          "GroupPositions": [],
+          "Root": "6ae38607f2409f5bfe191a41",
+          "Items": [
+            {
+              "composedKey": "1188604965",
+              "_id": "6ae38607f2409f5bfe191a41",
+              "_tpl": "6acc4988059559342f0830d8",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ]
+        },
+        "itemDistribution": [
+          {
+            "composedKey": {
+              "key": "1188604965"
+            },
+            "relativeProbability": 2
+          }
+        ]
+      }
+    ]
+  }
+}

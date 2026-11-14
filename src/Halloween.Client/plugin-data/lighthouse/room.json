@@ -1,0 +1,488 @@
+{
+ "hide": {
+  "native": [
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Reserve_decal_footstep (2)",
+    "position": [
+     -113.998,
+     4.919,
+     -754.505
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Reserve_decal_footstep (1)",
+    "position": [
+     -113.176,
+     4.919,
+     -753.057
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "CD",
+    "position": [
+     -111.184,
+     5.8069,
+     -754.674
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Shelves_02 (1)",
+    "position": [
+     -110.621,
+     6.245,
+     -754.019
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "paper_06 (1)",
+    "position": [
+     -114.8542,
+     4.907,
+     -751.8712
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "goshan_pallet4",
+    "position": [
+     -112.713,
+     4.907,
+     -756.828
+    ],
+    "objects": 7
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Shelves_02",
+    "position": [
+     -110.621,
+     6.245,
+     -755.243
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "headphone (1)",
+    "position": [
+     -110.871,
+     6.285,
+     -754.824
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Flower_4 (1)",
+    "position": [
+     -110.847,
+     6.658,
+     -755.5117
+    ],
+    "objects": 8
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_RackTubes_Small_set_01",
+    "position": [
+     -110.795,
+     6.27,
+     -754.322
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_RackTubes_Small_01",
+    "position": [
+     -110.788,
+     6.661,
+     -753.632
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_set_04",
+    "position": [
+     -110.836,
+     5.8069,
+     -753.941
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_set_04 (1)",
+    "position": [
+     -110.755,
+     6.649,
+     -754.934
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "PC_display_01",
+    "position": [
+     -113.4702,
+     4.907,
+     -755.6989
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "armstrong_fallen_var1 (4)",
+    "position": [
+     -114.0592,
+     4.907,
+     -755.2742
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "coffee_joy_hanger_update (3)",
+    "position": [
+     -110.933,
+     4.907,
+     -751.6733
+    ],
+    "objects": 10
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Vent_cabinet_03",
+    "position": [
+     -113.799,
+     4.907,
+     -751.397
+    ],
+    "objects": 7
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_heap_set_05",
+    "position": [
+     -110.992,
+     5.813,
+     -754.174
+    ],
+    "objects": 3
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "lab_stuff_heap_set_01",
+    "position": [
+     -113.5002,
+     4.907,
+     -756.0212
+    ],
+    "objects": 3
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Chair_09",
+    "position": [
+     -111.1462,
+     4.907,
+     -755.1823
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Cabinet_01",
+    "position": [
+     -115.48,
+     4.907,
+     -751.563
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Pallete_wood",
+    "position": [
+     -112.758,
+     5.61,
+     -756.173
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Cabinet_01 (1)",
+    "position": [
+     -112.099,
+     4.907,
+     -751.563
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02",
+    "name": "Chair_09",
+    "position": [
+     -115.297,
+     7.51,
+     -751.74
+    ],
+    "objects": 6
+   }
+  ],
+  "rework": [
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Reserve_decal_footstep (2)",
+    "position": [
+     -113.998,
+     4.919,
+     -754.505
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Reserve_decal_footstep (1)",
+    "position": [
+     -113.176,
+     4.919,
+     -753.057
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "CD",
+    "position": [
+     -111.184,
+     5.8069,
+     -754.674
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Shelves_02 (1)",
+    "position": [
+     -110.621,
+     6.245,
+     -754.019
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "paper_06 (1)",
+    "position": [
+     -114.8542,
+     4.907,
+     -751.8713
+    ],
+    "objects": 2
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "goshan_pallet4",
+    "position": [
+     -112.713,
+     4.907,
+     -756.828
+    ],
+    "objects": 7
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Shelves_02",
+    "position": [
+     -110.621,
+     6.245,
+     -755.243
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "headphone (1)",
+    "position": [
+     -110.871,
+     6.285,
+     -754.824
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Flower_4 (1)",
+    "position": [
+     -110.847,
+     6.658,
+     -755.5117
+    ],
+    "objects": 8
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_RackTubes_Small_set_01",
+    "position": [
+     -110.795,
+     6.27,
+     -754.322
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_RackTubes_Small_01",
+    "position": [
+     -110.788,
+     6.661,
+     -753.632
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_set_04",
+    "position": [
+     -110.836,
+     5.8069,
+     -753.941
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_set_04 (1)",
+    "position": [
+     -110.755,
+     6.649,
+     -754.934
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "PC_display_01",
+    "position": [
+     -113.4702,
+     4.907,
+     -755.6989
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "armstrong_fallen_var1 (4)",
+    "position": [
+     -114.0592,
+     4.907,
+     -755.2743
+    ],
+    "objects": 4
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "coffee_joy_hanger_update (3)",
+    "position": [
+     -110.933,
+     4.907,
+     -751.6733
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Vent_cabinet_03",
+    "position": [
+     -113.799,
+     4.907,
+     -751.397
+    ],
+    "objects": 7
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_heap_set_05",
+    "position": [
+     -110.992,
+     5.813,
+     -754.174
+    ],
+    "objects": 3
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "lab_stuff_heap_set_01",
+    "position": [
+     -113.5002,
+     4.907,
+     -756.0213
+    ],
+    "objects": 3
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Chair_09",
+    "position": [
+     -111.1462,
+     4.907,
+     -755.1823
+    ],
+    "objects": 6
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Cabinet_01",
+    "position": [
+     -115.48,
+     4.907,
+     -751.563
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Pallete_wood",
+    "position": [
+     -112.758,
+     5.61,
+     -756.173
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Cabinet_01 (1)",
+    "position": [
+     -112.099,
+     4.907,
+     -751.563
+    ],
+    "objects": 5
+   },
+   {
+    "scene": "Lighthouse_Water_filter_facility_02_ML",
+    "name": "Chair_09",
+    "position": [
+     -115.297,
+     7.51,
+     -751.74
+    ],
+    "objects": 6
+   }
+  ]
+ }
+}

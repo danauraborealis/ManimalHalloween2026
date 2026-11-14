@@ -1,0 +1,138 @@
+{
+  "secret": [
+    {
+      "name": "ex_labs_event_secret_parking",
+      "position": [
+        -228.58,
+        4.03,
+        -442.74
+      ],
+      "rotation": [
+        0.05159,
+        -0.005637,
+        0.020909,
+        0.998434
+      ],
+      "size": [
+        41.7242,
+        10.06,
+        44.1834
+      ],
+      "center": [
+        -5.3796,
+        -0.2245,
+        -14.5917
+      ]
+    },
+    {
+      "name": "ex_labs_event_secret_collector",
+      "position": [
+        -123.74,
+        -3.73,
+        -258.02
+      ],
+      "rotation": [
+        0.0,
+        -0.016798,
+        0.0,
+        0.999859
+      ],
+      "size": [
+        4.4,
+        2.5,
+        10.2034
+      ],
+      "center": [
+        -0.0,
+        0.0,
+        -1.1017
+      ]
+    }
+  ],
+  "moved": [
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Console",
+      "from": [
+        -170.18,
+        5.185,
+        -281.508
+      ],
+      "to": [
+        -170.18,
+        16.78,
+        -281.508
+      ]
+    },
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Console_trigger",
+      "from": [
+        -243.443,
+        5.076,
+        -382.513
+      ],
+      "to": [
+        -243.443,
+        14.26,
+        -382.513
+      ]
+    },
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Pump_button",
+      "from": [
+        -136.76,
+        -2.826,
+        -254.5105
+      ],
+      "to": [
+        -133.41,
+        12.764,
+        -254.5145
+      ]
+    },
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Disable_alarm_trigger",
+      "from": [
+        -220.756,
+        5.249,
+        -381.263
+      ],
+      "to": [
+        -220.756,
+        12.275,
+        -381.263
+      ]
+    },
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Rollete_Gate_Hangar",
+      "from": [
+        -170.659,
+        0.034,
+        -247.85
+      ],
+      "to": [
+        -170.659,
+        3.284,
+        -247.85
+      ]
+    },
+    {
+      "scene": "Laboratory_DesignMain",
+      "name": "Rollete_Gate_Parking",
+      "from": [
+        -231.599,
+        0.02,
+        -428.08
+      ],
+      "to": [
+        -231.599,
+        3.02,
+        -428.08
+      ]
+    }
+  ]
+}

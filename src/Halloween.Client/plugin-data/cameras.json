@@ -1,0 +1,284 @@
+{
+ "cameras": [
+  {
+   "id": "customs_destroy_camera_01",
+   "raid": "bigmap",
+   "position": [
+    171.5498,
+    3.7443,
+    185.8913
+   ],
+   "rotation": [
+    -0.260588,
+    -0.657338,
+    -0.657338,
+    0.260588
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "customs_destroy_camera_02",
+   "raid": "bigmap",
+   "position": [
+    235.8768,
+    6.225,
+    126.9509
+   ],
+   "rotation": [
+    -0.695077,
+    0.129875,
+    0.129875,
+    0.695077
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "customs_destroy_camera_03",
+   "raid": "bigmap",
+   "position": [
+    185.962,
+    3.7194,
+    169.041
+   ],
+   "rotation": [
+    -0.570094,
+    0.418321,
+    0.418321,
+    0.570094
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "lighthouse_destroy_camera_01",
+   "raid": "lighthouse",
+   "position": [
+    -62.7724,
+    14.1719,
+    -727.6693
+   ],
+   "rotation": [
+    -0.707107,
+    0.0,
+    0.0,
+    0.707107
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "lighthouse_destroy_camera_02",
+   "raid": "lighthouse",
+   "position": [
+    -80.2494,
+    11.7828,
+    -756.3298
+   ],
+   "rotation": [
+    -0.519798,
+    0.479385,
+    0.479385,
+    0.519798
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "lighthouse_destroy_camera_03",
+   "raid": "lighthouse",
+   "position": [
+    -132.6892,
+    14.1747,
+    -757.5043
+   ],
+   "rotation": [
+    0.001389,
+    -0.707105,
+    -0.707105,
+    -0.001389
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "rezerve_destroy_camera_01",
+   "raid": "rezervbase",
+   "position": [
+    182.0832,
+    -0.5102,
+    -166.6301
+   ],
+   "rotation": [
+    -0.707107,
+    0.0,
+    0.0,
+    0.707107
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "rezerve_destroy_camera_02",
+   "raid": "rezervbase",
+   "position": [
+    142.3919,
+    2.0517,
+    -152.6031
+   ],
+   "rotation": [
+    -0.092855,
+    -0.700984,
+    -0.700984,
+    0.092855
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "rezerve_destroy_camera_03",
+   "raid": "rezervbase",
+   "position": [
+    152.7573,
+    2.1438,
+    -143.5948
+   ],
+   "rotation": [
+    0.665663,
+    -0.238523,
+    -0.238523,
+    -0.665663
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "shoreline_destroy_camera_01",
+   "raid": "shoreline",
+   "position": [
+    -268.067,
+    2.8133,
+    -96.6273
+   ],
+   "rotation": [
+    -0.653515,
+    0.270033,
+    0.270033,
+    0.653515
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "shoreline_destroy_camera_02",
+   "raid": "shoreline",
+   "position": [
+    -364.114,
+    -1.5831,
+    -99.017
+   ],
+   "rotation": [
+    0.418739,
+    0.569787,
+    0.569787,
+    -0.418739
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "shoreline_destroy_camera_03",
+   "raid": "shoreline",
+   "position": [
+    -223.351,
+    2.1202,
+    -84.0628
+   ],
+   "rotation": [
+    0.418739,
+    0.569787,
+    0.569787,
+    -0.418739
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "woods_destroy_camera_01",
+   "raid": "woods",
+   "position": [
+    -664.526,
+    21.626,
+    146.562
+   ],
+   "rotation": [
+    -0.703574,
+    -0.070599,
+    -0.070599,
+    0.703574
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "id": "woods_destroy_camera_02",
+   "raid": "woods",
+   "position": [
+    -649.0128,
+    12.102,
+    115.0284
+   ],
+   "rotation": [
+    -0.620443,
+    0.339192,
+    0.339192,
+    0.620443
+   ],
+   "scale": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ]
+}

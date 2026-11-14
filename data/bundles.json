@@ -1,0 +1,43 @@
+{
+  "manifest": [
+    {
+      "key": "assets/content/characters/wip/zombies/zombiesbody/prefabs/zombie_head_bd_usec_6.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/wip/zombies/zombiesbody/prefabs/zombie_head_bd_usec_eric.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/wip/zombies/zombiesbody/prefabs/zombie_top_operator_bd1.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/wip/zombies/zombiesbody/prefabs/zombie_top_operator_bd2.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/wip/zombies/zombiesbody/prefabs/zombie_pants_operator_bd2.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/audio/phrases/zombie_fast_retail.bundle",
+      "dependencyKeys": []
+    }
+  ]
+}

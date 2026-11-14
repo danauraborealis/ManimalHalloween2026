@@ -1,0 +1,33 @@
+# Publish only what is needed to build and run the mod.
+# Docs, analysis, tools, tests, captures, Unity workspaces, staging, packages
+# and generated output stay local, including any new top-level directories.
+/*
+!/.gitignore
+!/.gitattributes
+!/LICENSE
+!/Directory.Build.props
+!/Directory.Build.targets
+!/NuGet.Config
+!/src/
+!/data/
+
+# Of data/, only what the server project copies into the mod.
+/data/*
+!/data/config.json
+!/data/bundles.json
+!/data/db/
+!/data/images/
+
+# Game-derived binaries: rebuilt locally from the retail install, never
+# published. Two of them are also over GitHub's 100 MB file limit.
+*.bundle
+/src/Halloween.Client/plugin-data/zombies/gore-heads.bin
+
+# Generated output and local IDE files within the projects.
+**/bin/
+**/obj/
+**/__pycache__/
+**/.vs/
+**/.idea/
+*.user
+*.suo

@@ -1,0 +1,513 @@
+{
+  "zones": [
+    {
+      "id": "Customs_vaсcine_leave_item",
+      "kind": "place",
+      "raid": "bigmap",
+      "position": [
+        224.7814,
+        0.344,
+        135.51
+      ],
+      "rotation": [
+        -0.0,
+        0.647909,
+        0.0,
+        -0.761718
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.7323,
+        0.6369,
+        0.4265
+      ],
+      "size": [
+        2.4647,
+        2.2739,
+        4.9646
+      ],
+      "source": "Custom/custom_DesignMain.unity / Customs_vaсcine_leave_item (depth 2, active True)"
+    },
+    {
+      "id": "infected_labs_visit_place",
+      "kind": "visit",
+      "raid": "laboratory_event",
+      "position": [
+        -176.616,
+        78.9687,
+        -282.4594
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        -8.456,
+        -79.3843,
+        -44.0365
+      ],
+      "size": [
+        228.6368,
+        54.46,
+        289.3819
+      ],
+      "source": "Laboratory_Event/Laboratory_Event_DesignMain.unity / infected_labs_visit_place  (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "laboratory_event",
+      "position": [
+        -222.423,
+        -4.9103,
+        -288.2554
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.7423,
+        0.5488,
+        -0.7436
+      ],
+      "size": [
+        3.5221,
+        2.0977,
+        2.4872
+      ],
+      "source": "Laboratory_Event/Laboratory_Event_DesignMain.unity / infected_bots_visit_place (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "laboratory_event",
+      "position": [
+        -270.033,
+        0.4247,
+        -340.5124
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.0297,
+        0.3486,
+        -0.8108
+      ],
+      "size": [
+        2.0968,
+        1.6972,
+        2.3527
+      ],
+      "source": "Laboratory_Event/Laboratory_Event_DesignMain.unity / infected_bots_visit_place (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "laboratory_event",
+      "position": [
+        -116.185,
+        0.4427,
+        -379.2134
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        -0.0725,
+        0.5488,
+        -0.5797
+      ],
+      "size": [
+        2.3011,
+        2.0976,
+        1.4711
+      ],
+      "source": "Laboratory_Event/Laboratory_Event_DesignMain.unity / infected_bots_visit_place (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "laboratory_event",
+      "position": [
+        -176.616,
+        0.4637,
+        -331.0334
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.0297,
+        0.2211,
+        -0.7436
+      ],
+      "size": [
+        2.0968,
+        1.4421,
+        2.4872
+      ],
+      "source": "Laboratory_Event/Laboratory_Event_DesignMain.unity / infected_bots_visit_place (depth 2, active True)"
+    },
+    {
+      "id": "Infected_factory_visit_place",
+      "kind": "visit",
+      "raid": "factory_event",
+      "position": [
+        16.509,
+        9.106,
+        39.299
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        -6.7093,
+        -9.6962,
+        -33.9927
+      ],
+      "size": [
+        159.432,
+        56.9845,
+        154.5925
+      ],
+      "source": "Factory_event/Factory_Event_DesignStuff.unity / Infected_factory_visit_place (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "factory_event",
+      "position": [
+        49.998,
+        4.58,
+        2.37
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.1253,
+        0.3173,
+        0.0797
+      ],
+      "size": [
+        1.9213,
+        1.6345,
+        1.1751
+      ],
+      "source": "Factory_event/Factory_Event_DesignStuff.unity / infected_bots_visit_place (1) (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "factory_event",
+      "position": [
+        -8.669,
+        0.531,
+        30.029
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        -0.0145,
+        0.3173,
+        -0.1427
+      ],
+      "size": [
+        2.2009,
+        1.6345,
+        1.6199
+      ],
+      "source": "Factory_event/Factory_Event_DesignStuff.unity / infected_bots_visit_place (2) (depth 2, active True)"
+    },
+    {
+      "id": "infected_bots_visit_place",
+      "kind": "visit",
+      "raid": "factory_event",
+      "position": [
+        13.679,
+        0.459,
+        -27.569
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "center": [
+        0.1253,
+        0.3173,
+        0.1531
+      ],
+      "size": [
+        1.9213,
+        1.6345,
+        1.8154
+      ],
+      "source": "Factory_event/Factory_Event_DesignStuff.unity / infected_bots_visit_place (depth 2, active True)"
+    }
+  ],
+  "bodies": [
+    {
+      "raid": "laboratory_event",
+      "container": "container_Laboratory_Event_DesignStuff_00012",
+      "position": [
+        -222.423,
+        -5.347,
+        -288.954
+      ],
+      "rotation": [
+        0.51804,
+        -0.366292,
+        -0.476988,
+        -0.608234
+      ],
+      "loot": [
+        [
+          2,
+          102
+        ],
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "raid": "laboratory_event",
+      "container": "container_Laboratory_Event_DesignStuff_00010",
+      "position": [
+        -270.033,
+        0.003,
+        -341.743
+      ],
+      "rotation": [
+        -0.29515,
+        -0.642562,
+        -0.642563,
+        0.29515
+      ],
+      "loot": [
+        [
+          2,
+          102
+        ],
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "raid": "laboratory_event",
+      "container": "container_Laboratory_Event_DesignStuff_00011",
+      "position": [
+        -176.616,
+        0.0111,
+        -331.0334
+      ],
+      "rotation": [
+        0.286475,
+        -0.646477,
+        -0.646477,
+        -0.286475
+      ],
+      "loot": [
+        [
+          2,
+          102
+        ],
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "raid": "laboratory_event",
+      "container": "container_Laboratory_Event_DesignStuff_00013",
+      "position": [
+        -116.185,
+        0.018,
+        -379.773
+      ],
+      "rotation": [
+        0.288616,
+        0.625616,
+        0.645524,
+        -0.329552
+      ],
+      "loot": [
+        [
+          2,
+          102
+        ],
+        [
+          0,
+          18
+        ]
+      ]
+    },
+    {
+      "raid": "factory_event",
+      "container": "container_Factory_Event_DesignStuff_00001",
+      "position": [
+        13.467,
+        -0.009,
+        -28.406
+      ],
+      "rotation": [
+        -0.702136,
+        -0.083698,
+        -0.083698,
+        0.702136
+      ],
+      "loot": [
+        [
+          2,
+          159
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "raid": "factory_event",
+      "container": "container_Factory_Event_DesignStuff_00000",
+      "position": [
+        -8.669,
+        0.096,
+        30.029
+      ],
+      "rotation": [
+        -0.111611,
+        0.698244,
+        0.698242,
+        0.111611
+      ],
+      "loot": [
+        [
+          2,
+          159
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "raid": "factory_event",
+      "container": "container_Factory_Event_DesignStuff_00002",
+      "position": [
+        49.998,
+        4.282,
+        2.37
+      ],
+      "rotation": [
+        -0.706883,
+        -0.017792,
+        -0.017792,
+        0.706883
+      ],
+      "loot": [
+        [
+          2,
+          159
+        ],
+        [
+          1,
+          9
+        ],
+        [
+          0,
+          9
+        ]
+      ]
+    }
+  ]
+}

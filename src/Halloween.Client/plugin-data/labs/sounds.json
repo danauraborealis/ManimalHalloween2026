@@ -1,0 +1,319 @@
+{
+ "pieces": [
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -158.024,
+    0.0,
+    -401.053
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -186.525,
+    4.105,
+    -395.734
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -147.167,
+    4.1,
+    -397.827
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -146.533,
+    0.001,
+    -398.433
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Elevator_Zombie_02_Elevator_Drop",
+   "position": [
+    -114.064,
+    -4.052,
+    -348.411
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "interactive_elevator_button",
+     "volume": 1.0
+    },
+    {
+     "trigger": "Open_01",
+     "clip": "interactive_elevator_fail",
+     "volume": 0.8
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "interactive_elevator_open",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_fail_fast",
+     "volume": 0.8
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_fail_gore",
+     "volume": 0.9
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Elevator_Zombie_03_Hand_Grenade",
+   "position": [
+    -114.035,
+    0.007,
+    -341.347
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "interactive_elevator_button",
+     "volume": 1.0
+    },
+    {
+     "trigger": "Open_01",
+     "clip": "elevator_grenade_moving",
+     "volume": 0.8
+    },
+    {
+     "trigger": "Open_01",
+     "clip": "elevator_grenade_voce_grunts",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_grenade_open_foley",
+     "volume": 0.8
+    },
+    {
+     "trigger": "Explode",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.9
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -154.684,
+    4.1,
+    -406.137
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Elevator_Zombie_01_Car",
+   "position": [
+    -281.022,
+    0.012,
+    -334.177
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "interactive_elevator_button",
+     "volume": 1.0
+    },
+    {
+     "trigger": "Open_01",
+     "clip": "interactive_elevator_fail_moving",
+     "volume": 0.8
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_open_zombie",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_car_crash",
+     "volume": 0.85
+    },
+    {
+     "trigger": "Open_02",
+     "clip": "elevator_car_alarm",
+     "volume": 0.85
+    }
+   ]
+  },
+  {
+   "name": "INTERACTIVE_Table_ShapeP_Randomize_Zombie_Arm",
+   "position": [
+    -194.306,
+    4.1,
+    -401.737
+   ],
+   "sounds": [
+    {
+     "trigger": "Open_01",
+     "clip": "zombie_drawer_open",
+     "volume": 0.75
+    },
+    {
+     "trigger": "Open_Table_01",
+     "clip": "zombie_hand_empty",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_02",
+     "clip": "zombie_hand_fuck",
+     "volume": 0.9
+    },
+    {
+     "trigger": "Open_Table_03",
+     "clip": "zombie_hand_grenade",
+     "volume": 0.95
+    },
+    {
+     "trigger": "Explosion",
+     "clip": "rgo_rgn_explosion_indoor_close",
+     "volume": 0.8
+    }
+   ]
+  }
+ ]
+}

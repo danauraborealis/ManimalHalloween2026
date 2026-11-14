@@ -1,0 +1,41 @@
+<Project>
+  <Target Name="GenerateModIdentity" BeforeTargets="CoreCompile">
+    <PropertyGroup>
+      <IdentityFile>$(IntermediateOutputPath)ModIdentity.g.cs</IdentityFile>
+    </PropertyGroup>
+    <ItemGroup>
+      <IdentityLine Include="// Generated from root Directory.Build.props." />
+      <IdentityLine Include="namespace Manimal.Halloween2026%3B" />
+      <IdentityLine Include="internal static class ModIdentity {" />
+      <IdentityLine Include="public const string Guid = &quot;$(ModGuid)&quot;%3B" />
+      <IdentityLine Include="public const string Author = &quot;$(ModAuthor)&quot;%3B" />
+      <IdentityLine Include="public const string Name = &quot;$(ModName)&quot;%3B" />
+      <IdentityLine Include="public const string ClientName = &quot;$(ModClientName)&quot;%3B" />
+      <IdentityLine Include="public const string Version = &quot;$(ModVersion)&quot;%3B" />
+      <IdentityLine Include="public const string SptRange = &quot;$(SupportedSptRange)&quot;%3B" />
+      <IdentityLine Include="public const string SourceUrl = &quot;$(ModSourceUrl)&quot;%3B" />
+      <IdentityLine Include="public const string License = &quot;$(ModCodeLicense) AND $(ModDataLicense)&quot;%3B" />
+      <IdentityLine Include="public const string MapVariantsGuid = &quot;$(MapVariantsGuid)&quot;%3B" />
+      <IdentityLine Include="public const string MapVariantsVersion = &quot;$(MapVariantsVersion)&quot;%3B" />
+      <IdentityLine Include="public const string CommonLibGuid = &quot;$(CommonLibGuid)&quot;%3B" />
+      <IdentityLine Include="public const string CommonLibVersion = &quot;$(CommonLibVersion)&quot;%3B" />
+      <IdentityLine Include="public const string ContentBackportGuid = &quot;$(ContentBackportGuid)&quot;%3B" />
+      <IdentityLine Include="public const string ContentBackportVersion = &quot;$(ContentBackportVersion)&quot;%3B" />
+      <IdentityLine Include="}" />
+      <Compile Include="$(IdentityFile)" />
+    </ItemGroup>
+    <WriteLinesToFile File="$(IdentityFile)" Lines="@(IdentityLine)" Overwrite="true" WriteOnlyWhenDifferent="true" />
+  </Target>
+
+  <!-- opt-in so a plain build never touches the install: dotnet build -p:Deploy=true -->
+  <Target Name="DeployServerMod" AfterTargets="Build" Condition="'$(ModDeployKind)' == 'server' And '$(Deploy)' == 'true'">
+    <ItemGroup>
+      <ServerPayload Include="$(OutDir)**\*" Exclude="$(OutDir)**\*.pdb;$(OutDir)**\*.deps.json" />
+    </ItemGroup>
+    <Copy SourceFiles="@(ServerPayload)" DestinationFolder="$(ServerPath)\user\mods\$(ServerModFolder)\%(RecursiveDir)" SkipUnchangedFiles="true" />
+  </Target>
+  <Target Name="DeployClientMod" AfterTargets="Build" Condition="'$(ModDeployKind)' == 'client' And '$(Deploy)' == 'true'">
+    <Copy SourceFiles="$(OutDir)$(AssemblyName).dll" DestinationFolder="$(SPTPath)\BepInEx\plugins\$(ModClientName)" SkipUnchangedFiles="true" />
+    <Copy SourceFiles="@(ClientPluginData)" DestinationFolder="$(SPTPath)\BepInEx\plugins\$(ModClientName)\plugin-data\%(RecursiveDir)" SkipUnchangedFiles="true" />
+  </Target>
+</Project>

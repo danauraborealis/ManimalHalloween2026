@@ -1,0 +1,1422 @@
+{
+  "BossLocationSpawn": [
+    {
+      "BossChance": 75,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "0",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedTagilla",
+      "BossName": "infectedTagilla",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": true,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": null,
+      "Time": -1,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": true,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": -1,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": true,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": -1,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": true,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": -1,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 120,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 180,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 255,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "pve",
+        "regular",
+        "pvp-season"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 330,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 460,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 480,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 530,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 605,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 760,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 780,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 830,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "easy",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "hard"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "easy"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 880,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedPmc",
+      "BossName": "infectedPmc",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 905,
+      "TriggerId": "",
+      "TriggerName": ""
+    },
+    {
+      "BossChance": 100,
+      "BossDifficult": "normal",
+      "BossEscortAmount": "3,4,5",
+      "BossEscortDifficult": "normal",
+      "BossEscortType": "infectedAssault",
+      "BossName": "infectedAssault",
+      "BossPlayer": false,
+      "BossZone": "BotZone",
+      "IgnoreMaxBots": false,
+      "RandomTimeSpawn": false,
+      "ShowOnTarkovMap": false,
+      "ShowOnTarkovMapPvE": false,
+      "SpawnMode": [
+        "regular",
+        "pvp-season",
+        "pve"
+      ],
+      "Supports": [
+        {
+          "BossEscortType": "infectedCivil",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedAssault",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "2"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        },
+        {
+          "BossEscortType": "infectedPmc",
+          "BossEscortDifficult": [
+            "normal"
+          ],
+          "BossEscortAmount": "1"
+        }
+      ],
+      "Time": 955,
+      "TriggerId": "",
+      "TriggerName": ""
+    }
+  ],
+  "Replaces": [
+    "bossTagilla"
+  ],
+  "Waves": [
+    {
+      "BotPreset": "normal",
+      "BotSide": "Savage",
+      "KeepZoneOnSpawn": false,
+      "SpawnMode": [
+        "regular",
+        "pve",
+        "pvp-season"
+      ],
+      "SpawnPoints": "BotZone",
+      "WildSpawnType": "assault",
+      "isPlayers": false,
+      "number": 0,
+      "slots_max": 3,
+      "slots_min": 1,
+      "time_max": 10000000,
+      "time_min": 1000000
+    }
+  ],
+  "Hostility": [
+    {
+      "BotRole": "pmcBEAR",
+      "AlwaysEnemies": [
+        "pmcBot",
+        "exUsec",
+        "bossBully",
+        "bossBoar",
+        "bossTagilla",
+        "bossKilla",
+        "bossKojaniy",
+        "bossSanitar",
+        "bossKolontay",
+        "bossGluhar",
+        "bossKnight",
+        "bossBoarSniper",
+        "bossPartisan",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBoar",
+        "followerBoarClose1",
+        "followerBoarClose2",
+        "followerBully",
+        "followerGluharAssault",
+        "followerGluharScout",
+        "followerGluharSecurity",
+        "followerGluharSnipe",
+        "followerKojaniy",
+        "followerKolontayAssault",
+        "followerKolontaySecurity",
+        "followerSanitar",
+        "followerTagilla",
+        "assaultGroup",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "ChancedEnemies": [
+        {
+          "EnemyChance": 100,
+          "Role": "assault"
+        },
+        {
+          "EnemyChance": 100,
+          "Role": "marksman"
+        },
+        {
+          "EnemyChance": 20,
+          "Role": "pmcUSEC"
+        }
+      ],
+      "Warn": [
+        "sectactPriestEvent"
+      ],
+      "Neutral": [
+        "sectantPriest",
+        "sectantWarrior"
+      ],
+      "AlwaysFriends": [
+        "bossZryachiy",
+        "followerZryachiy",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter"
+      ],
+      "SavagePlayerBehaviour": "Warn",
+      "BearPlayerBehaviour": "ChancedEnemies",
+      "BearEnemyChance": 100,
+      "UsecPlayerBehaviour": "ChancedEnemies",
+      "UsecEnemyChance": 100
+    },
+    {
+      "BotRole": "pmcUSEC",
+      "AlwaysEnemies": [
+        "pmcBot",
+        "bossBully",
+        "bossBoar",
+        "bossTagilla",
+        "bossKilla",
+        "bossKojaniy",
+        "bossSanitar",
+        "bossKolontay",
+        "bossGluhar",
+        "bossBoarSniper",
+        "bossPartisan",
+        "followerBoar",
+        "followerBoarClose1",
+        "followerBoarClose2",
+        "followerBully",
+        "followerGluharAssault",
+        "followerGluharScout",
+        "followerGluharSecurity",
+        "followerGluharSnipe",
+        "followerKojaniy",
+        "followerKolontayAssault",
+        "followerKolontaySecurity",
+        "followerSanitar",
+        "followerTagilla",
+        "assaultGroup",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "ChancedEnemies": [
+        {
+          "EnemyChance": 100,
+          "Role": "assault"
+        },
+        {
+          "EnemyChance": 100,
+          "Role": "marksman"
+        },
+        {
+          "EnemyChance": 20,
+          "Role": "pmcBEAR"
+        },
+        {
+          "EnemyChance": 15,
+          "Role": "exUsec"
+        },
+        {
+          "EnemyChance": 15,
+          "Role": "bossKnight"
+        }
+      ],
+      "Warn": [
+        "sectactPriestEvent"
+      ],
+      "Neutral": [
+        "sectantPriest",
+        "sectantWarrior"
+      ],
+      "AlwaysFriends": [
+        "bossZryachiy",
+        "followerZryachiy",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter"
+      ],
+      "SavagePlayerBehaviour": "Warn",
+      "BearPlayerBehaviour": "ChancedEnemies",
+      "BearEnemyChance": 100,
+      "UsecPlayerBehaviour": "ChancedEnemies",
+      "UsecEnemyChance": 100
+    },
+    {
+      "BotRole": "assault",
+      "AlwaysEnemies": [
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "AlwaysFriends": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully"
+      ],
+      "SavagePlayerBehaviour": "Neutral"
+    },
+    {
+      "BotRole": "assaultGroup",
+      "AlwaysEnemies": [
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "AlwaysFriends": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully"
+      ],
+      "SavagePlayerBehaviour": "Neutral"
+    },
+    {
+      "BotRole": "infectedAssault",
+      "AlwaysFriends": [
+        "infectedScreamer",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "AlwaysEnemies": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully",
+        "assault",
+        "assaultGroup",
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "SavagePlayerBehaviour": "AlwaysEnemies"
+    },
+    {
+      "BotRole": "infectedCivil",
+      "AlwaysFriends": [
+        "infectedScreamer",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "AlwaysEnemies": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully",
+        "assault",
+        "assaultGroup",
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "SavagePlayerBehaviour": "AlwaysEnemies"
+    },
+    {
+      "BotRole": "infectedLaborant",
+      "AlwaysFriends": [
+        "infectedScreamer",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "AlwaysEnemies": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully",
+        "assault",
+        "assaultGroup",
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "SavagePlayerBehaviour": "AlwaysEnemies"
+    },
+    {
+      "BotRole": "infectedPmc",
+      "AlwaysFriends": [
+        "infectedScreamer",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "AlwaysEnemies": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully",
+        "assault",
+        "assaultGroup",
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "SavagePlayerBehaviour": "AlwaysEnemies"
+    },
+    {
+      "BotRole": "infectedTagilla",
+      "AlwaysFriends": [
+        "infectedScreamer",
+        "infectedAssault",
+        "infectedCivil",
+        "infectedLaborant",
+        "infectedPmc",
+        "infectedTagilla"
+      ],
+      "AlwaysEnemies": [
+        "bossKilla",
+        "marksman",
+        "peacefullZryachiyEvent",
+        "ravangeZryachiyEvent",
+        "gifter",
+        "bossBoar",
+        "bossBully",
+        "bossGluhar",
+        "bossKnight",
+        "bossKojaniy",
+        "bossKolontay",
+        "bossPartisan",
+        "bossSanitar",
+        "bossTagilla",
+        "bossZryachiy",
+        "exUsec",
+        "followerBigPipe",
+        "followerBirdEye",
+        "followerBully",
+        "assault",
+        "assaultGroup",
+        "pmcBEAR",
+        "pmcUSEC"
+      ],
+      "SavagePlayerBehaviour": "AlwaysEnemies"
+    }
+  ],
+  "ClosedExits": [
+    "Cellars",
+    "Gate m",
+    "Gate_o"
+  ],
+  "SecretExits": [
+    {
+      "EligibleForPMC": true,
+      "EligibleForScav": true,
+      "ExfiltrationTime": 15,
+      "Id": "675aaaf674a7619a5304c233",
+      "Name": "factory_secret_ark"
+    }
+  ],
+  "BotMax": 30,
+  "EscapeTimeLimit": 15,
+  "Events": {
+    "Halloween2024": {
+      "CrowdAttackBlockRadius": 100,
+      "CrowdAttackSpawnParams": [
+        {
+          "Difficulty": "easy",
+          "Role": "infectedAssault",
+          "Weight": 30
+        },
+        {
+          "Difficulty": "normal",
+          "Role": "infectedAssault",
+          "Weight": 110
+        },
+        {
+          "Difficulty": "hard",
+          "Role": "infectedAssault",
+          "Weight": 40
+        },
+        {
+          "Difficulty": "easy",
+          "Role": "infectedPmc",
+          "Weight": 15
+        },
+        {
+          "Difficulty": "normal",
+          "Role": "infectedPmc",
+          "Weight": 55
+        },
+        {
+          "Difficulty": "hard",
+          "Role": "infectedPmc",
+          "Weight": 20
+        },
+        {
+          "Difficulty": "easy",
+          "Role": "infectedCivil",
+          "Weight": 0
+        },
+        {
+          "Difficulty": "normal",
+          "Role": "infectedCivil",
+          "Weight": 0
+        },
+        {
+          "Difficulty": "hard",
+          "Role": "infectedCivil",
+          "Weight": 0
+        },
+        {
+          "Difficulty": "easy",
+          "Role": "infectedLaborant",
+          "Weight": 0
+        },
+        {
+          "Difficulty": "normal",
+          "Role": "infectedLaborant",
+          "Weight": 0
+        },
+        {
+          "Difficulty": "hard",
+          "Role": "infectedLaborant",
+          "Weight": 0
+        }
+      ],
+      "CrowdCooldownPerPlayerSec": 300,
+      "CrowdsLimit": 2,
+      "InfectedLookCoeff": 0.5,
+      "MaxCrowdAttackSpawnLimit": 13,
+      "MinInfectionPercentage": 0,
+      "MinSpawnDistToPlayer": 40,
+      "TargetPointSearchRadiusLimit": 80,
+      "ZombieCallDeltaRadius": 20,
+      "ZombieCallPeriodSec": 1,
+      "ZombieCallRadiusLimit": 50,
+      "ZombieMultiplier": 5,
+      "InfectionPercentage": 100
+    }
+  }
+}

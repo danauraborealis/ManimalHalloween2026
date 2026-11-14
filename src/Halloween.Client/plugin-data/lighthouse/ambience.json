@@ -1,0 +1,749 @@
+{
+ "players": [
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/Database",
+   "kind": "loop",
+   "group": "CommonAmbInEffects",
+   "volume": 0.03,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.9,
+    1.1
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 7.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.1399,
+     -3.1399
+    ],
+    [
+     0.5163,
+     0.3514,
+     -0.9505,
+     -0.9505
+    ],
+    [
+     1.0,
+     0.0,
+     -0.0585,
+     -0.0585
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    -111.099,
+    6.134,
+    -751.641
+   ],
+   "clips": [
+    "amb_servers_loop"
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/Database_2",
+   "kind": "loop",
+   "group": "CommonAmbInEffects",
+   "volume": 0.119,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.9,
+    1.1
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 8.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.1399,
+     -3.1399
+    ],
+    [
+     0.5163,
+     0.3514,
+     -0.9505,
+     -0.9505
+    ],
+    [
+     1.0,
+     0.0,
+     -0.0585,
+     -0.0585
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    -112.647,
+    6.295,
+    -757.019
+   ],
+   "clips": [
+    "amb_cpu_deck_loop"
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/Database_3",
+   "kind": "loop",
+   "group": "CommonAmbInEffects",
+   "volume": 0.074,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.95,
+    1.15
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 8.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.1399,
+     -3.1399
+    ],
+    [
+     0.5163,
+     0.3514,
+     -0.9505,
+     -0.9505
+    ],
+    [
+     1.0,
+     0.0,
+     -0.0585,
+     -0.0585
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    -112.47,
+    6.295,
+    -757.019
+   ],
+   "clips": [
+    "amb_electric_sign_loop"
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/DebrisRPP/AmbientSoundPlayer",
+   "kind": "random",
+   "group": "CommonAmbInEffects",
+   "volume": 0.127,
+   "deltaVolume": 0.02,
+   "pitch": [
+    0.8,
+    1.2
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.507,
+   "spatialBlend": 1.0,
+   "minDistance": 1.0,
+   "maxDistance": 10.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.7152,
+     -3.7152
+    ],
+    [
+     0.2218,
+     0.5853,
+     -1.1961,
+     -1.1961
+    ],
+    [
+     0.566,
+     0.3111,
+     -0.5856,
+     -0.5856
+    ],
+    [
+     1.0,
+     0.0015,
+     -0.2172,
+     -0.2172
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    20.0
+   ],
+   "position": [
+    -59.651,
+    16.489,
+    47.671
+   ],
+   "clips": [
+    "amb_terminal_debris_01",
+    "amb_terminal_debris_02",
+    "amb_terminal_debris_03",
+    "amb_terminal_debris_04",
+    "amb_terminal_debris_05",
+    "amb_terminal_debris_06",
+    "amb_terminal_debris_07",
+    "amb_terminal_debris_08"
+   ],
+   "bank": "debris_falling",
+   "gap": [
+    10.0,
+    80.0
+   ],
+   "points": [
+    [
+     -112.345,
+     8.181,
+     -755.663
+    ],
+    [
+     -113.26,
+     8.296,
+     -752.399
+    ],
+    [
+     -117.11,
+     8.255,
+     -752.386
+    ]
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/Flies",
+   "kind": "random",
+   "group": "CommonAmbInEffects",
+   "volume": 0.159,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.9,
+    1.1
+   ],
+   "fadeIn": 0.5,
+   "fadeOut": 1.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.1,
+   "maxDistance": 6.5,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.7152,
+     -3.7152
+    ],
+    [
+     0.2218,
+     0.5853,
+     -1.1961,
+     -1.1961
+    ],
+    [
+     0.566,
+     0.3111,
+     -0.5856,
+     -0.5856
+    ],
+    [
+     1.0,
+     0.0015,
+     -0.2172,
+     -0.2172
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    20.0
+   ],
+   "position": [
+    -113.26,
+    5.174,
+    -755.663
+   ],
+   "clips": [
+    "corpse_flies_01",
+    "corpse_flies_02",
+    "corpse_flies_03",
+    "corpse_flies_04",
+    "corpse_flies_05",
+    "corpse_flies_06",
+    "corpse_flies_07",
+    "corpse_flies_08",
+    "corpse_flies_09",
+    "corpse_flies_10"
+   ],
+   "bank": "Flies_corpse",
+   "gap": [
+    15.0,
+    40.0
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/Notebook_broke",
+   "kind": "loop",
+   "group": "CommonAmbInEffects",
+   "volume": 0.084,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.9,
+    1.1
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 6.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.1399,
+     -3.1399
+    ],
+    [
+     0.5543,
+     0.3443,
+     -0.7262,
+     -0.7262
+    ],
+    [
+     1.0,
+     0.0,
+     -0.0585,
+     -0.0585
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    -110.807,
+    5.897,
+    -755.345
+   ],
+   "clips": [
+    "broken_computer_loop"
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/TV_broke",
+   "kind": "loop",
+   "group": "CommonAmbInEffects",
+   "volume": 0.22,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.8,
+    1.0
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.5,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 8.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.1399,
+     -3.1399
+    ],
+    [
+     0.5163,
+     0.3514,
+     -0.9505,
+     -0.9505
+    ],
+    [
+     1.0,
+     0.0,
+     -0.0585,
+     -0.0585
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    -110.635,
+    6.737,
+    -754.836
+   ],
+   "clips": [
+    "broken_computer_loop"
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/WoodRPP/AmbientSoundPlayer",
+   "kind": "random",
+   "group": "CommonAmbInEffects",
+   "volume": 0.13,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.8,
+    1.2
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.57,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 10.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.7152,
+     -3.7152
+    ],
+    [
+     0.1011,
+     0.5994,
+     -2.6073,
+     -2.6073
+    ],
+    [
+     0.3782,
+     0.2127,
+     -0.5856,
+     -0.5856
+    ],
+    [
+     1.0,
+     0.0015,
+     -0.2172,
+     -0.2172
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    0.0
+   ],
+   "position": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "clips": [
+    "wood_cracking_17",
+    "wood_cracking_16",
+    "wood_cracking_15",
+    "wood_cracking_14",
+    "wood_cracking_13",
+    "wood_cracking_12",
+    "wood_cracking_11",
+    "wood_cracking_10",
+    "wood_cracking_09",
+    "wood_cracking_06",
+    "wood_cracking_03"
+   ],
+   "bank": "Wood_cracking",
+   "gap": [
+    10.0,
+    80.0
+   ],
+   "points": [
+    [
+     -111.4,
+     5.634,
+     -756.539
+    ],
+    [
+     -116.494,
+     5.174,
+     -756.507
+    ],
+    [
+     -115.68,
+     5.174,
+     -755.494
+    ]
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  },
+  {
+   "name": "3DRP/AmbientInCommonEffectsGroup/Zombies_obs_room/halloween_radio",
+   "kind": "random",
+   "group": "CommonAmbInEffects",
+   "volume": 0.1,
+   "deltaVolume": 0.0,
+   "pitch": [
+    0.9,
+    1.1
+   ],
+   "fadeIn": 1.0,
+   "fadeOut": 2.0,
+   "spread": 0.166,
+   "spatialBlend": 1.0,
+   "minDistance": 0.0,
+   "maxDistance": 10.0,
+   "rolloff": [
+    [
+     0.0,
+     1.0,
+     -3.7152,
+     -3.7152
+    ],
+    [
+     0.2218,
+     0.5853,
+     -1.1961,
+     -1.1961
+    ],
+    [
+     0.566,
+     0.3111,
+     -0.5856,
+     -0.5856
+    ],
+    [
+     1.0,
+     0.0015,
+     -0.2172,
+     -0.2172
+    ]
+   ],
+   "startDelay": [
+    0.0,
+    20.0
+   ],
+   "position": [
+    -111.644,
+    5.86,
+    -754.217
+   ],
+   "clips": [
+    "event_halloween_radio_21",
+    "event_halloween_radio_20",
+    "event_halloween_radio_19",
+    "event_halloween_radio_18",
+    "event_halloween_radio_17",
+    "event_halloween_radio_16",
+    "event_halloween_radio_15",
+    "event_halloween_radio_14",
+    "event_halloween_radio_13",
+    "event_halloween_radio_12",
+    "event_halloween_radio_11",
+    "event_halloween_radio_10",
+    "event_halloween_radio_09",
+    "event_halloween_radio_08",
+    "event_halloween_radio_07",
+    "event_halloween_radio_06",
+    "event_halloween_radio_05",
+    "event_halloween_radio_04",
+    "event_halloween_radio_03",
+    "event_halloween_radio_02",
+    "event_halloween_radio_01"
+   ],
+   "bank": "halloween_radio",
+   "gap": [
+    20.0,
+    45.0
+   ],
+   "rooms": [
+    {
+     "center": [
+      -114.087,
+      5.219,
+      -754.282
+     ],
+     "rotation": [
+      -0.0,
+      1.0,
+      0.0,
+      -0.0
+     ],
+     "half": [
+      3.715,
+      2.722,
+      3.08
+     ]
+    }
+   ]
+  }
+ ]
+}

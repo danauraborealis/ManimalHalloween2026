@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <AssemblyName>Manimal.Halloween2026.Server</AssemblyName>
+    <RootNamespace>Manimal.Halloween2026.Server</RootNamespace>
+    <OutputType>Library</OutputType>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <ModDeployKind>server</ModDeployKind>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\data\db\**\*">
+      <Link>db\%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\data\config.json" Link="config.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="..\..\data\bundles.json" Link="bundles.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="..\..\data\bundles\**\*.bundle">
+      <Link>bundles\%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="..\..\data\images\**\*">
+      <Link>images\%(RecursiveDir)%(Filename)%(Extension)</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SPTarkov.Server.Core" HintPath="$(ServerPath)\SPTarkov.Server.Core.dll" Private="false" />
+    <Reference Include="SPTarkov.DI" HintPath="$(ServerPath)\SPTarkov.DI.dll" Private="false" />
+    <Reference Include="SPTarkov.Reflection" HintPath="$(ServerPath)\SPTarkov.Reflection.dll" Private="false" />
+    <Reference Include="0Harmony" HintPath="$(ServerPath)\0Harmony.dll" Private="false" />
+    <Reference Include="SPTarkov.Common" HintPath="$(ServerPath)\SPTarkov.Common.dll" Private="false" />
+    <Reference Include="SemanticVersioning" HintPath="$(ServerPath)\SemanticVersioning.dll" Private="false" />
+    <Reference Include="JetBrains.Annotations" HintPath="$(ServerPath)\JetBrains.Annotations.dll" Private="false" />
+    <Reference Include="WTT-ServerCommonLib" HintPath="$(ServerPath)\user\mods\WTT-ServerCommonLib\WTT-ServerCommonLib.dll" Private="false" />
+  </ItemGroup>
+</Project>

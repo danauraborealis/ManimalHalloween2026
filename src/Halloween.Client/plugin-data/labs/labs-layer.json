@@ -1,0 +1,346 @@
+{
+ "hide": [
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (3)",
+   "position": [
+    -173.2824,
+    0.928,
+    -419.9178
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (5)",
+   "position": [
+    -153.2177,
+    0.01,
+    -343.0336
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (5)",
+   "position": [
+    -193.1873,
+    -0.005,
+    -324.7165
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (5)",
+   "position": [
+    -154.7213,
+    0.109,
+    -330.6609
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (6)",
+   "position": [
+    -175.49,
+    1.222,
+    -415.194
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (2)",
+   "position": [
+    -173.4015,
+    0.928,
+    -418.6869
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (6)",
+   "position": [
+    -152.5208,
+    1.222,
+    -342.9354
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (6)",
+   "position": [
+    -154.5526,
+    1.321,
+    -331.3442
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (6)",
+   "position": [
+    -147.3178,
+    5.332,
+    -331.7856
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (6)",
+   "position": [
+    -192.4951,
+    1.207,
+    -324.589
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (4)",
+   "position": [
+    -151.8476,
+    0.01,
+    -343.0098
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (4)",
+   "position": [
+    -191.8193,
+    -0.005,
+    -324.635
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (4)",
+   "position": [
+    -154.5581,
+    0.109,
+    -332.0215
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_box_P (7)",
+   "position": [
+    -192.4551,
+    -0.005,
+    -326.0265
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Stand_04 (7)",
+   "position": [
+    -192.9165,
+    0.9323,
+    -360.7434
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Stand_04 (8)",
+   "position": [
+    -193.4985,
+    0.9323,
+    -361.0714
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Stand_08 (5)",
+   "position": [
+    -192.9285,
+    0.9353,
+    -359.8344
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Stand_08 (6)",
+   "position": [
+    -193.6085,
+    0.9353,
+    -360.3344
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Lab_Recreation_Bench_02 (39)",
+   "position": [
+    -173.6713,
+    5.1751,
+    -303.1432
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "lab_reception_terragroup_logo_stand (2)",
+   "position": [
+    -150.0851,
+    4.099,
+    -342.9789
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "dentist_chair (68)",
+   "position": [
+    -193.7055,
+    0.9283,
+    -359.6614
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Table_06",
+   "position": [
+    -192.9003,
+    0.0382,
+    -362.2344
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Table_06",
+   "position": [
+    -192.9002,
+    0.0382,
+    -359.8173
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Table_06",
+   "position": [
+    -192.9002,
+    0.0382,
+    -361.0223
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Pallet_cardboard_terragroup_cloth_03_LOD0",
+   "position": [
+    -170.7592,
+    -0.04,
+    -349.5274
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "container_lab_set_02",
+   "position": [
+    -180.2076,
+    4.3693,
+    -301.9187
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "container_lab_set_02",
+   "position": [
+    -181.126,
+    4.36,
+    -301.86
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Pallet_cardboard_terragroup_cloth_03_SHADOW_LOD0",
+   "position": [
+    -170.7592,
+    -0.04,
+    -349.5274
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "Pallet_cardboard_terragroup_cloth_03_BALLISTIC_fabric",
+   "position": [
+    -170.7592,
+    -0.04,
+    -349.5274
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "pallet_cardboard_terragroup",
+   "position": [
+    -143.03,
+    4.05,
+    -390.34
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "WoodBox_medium_01",
+   "position": [
+    -153.3754,
+    1.182,
+    -331.1202
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "WoodBox_medium_01",
+   "position": [
+    -192.6483,
+    1.068,
+    -323.4005
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "WoodBox_medium_01",
+   "position": [
+    -152.6238,
+    1.083,
+    -341.7415
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "WoodBox_medium_01",
+   "position": [
+    -175.6127,
+    1.083,
+    -414.002
+   ]
+  },
+  {
+   "scene": "Laboratory_work_zone",
+   "name": "WoodBox_medium_01",
+   "position": [
+    -146.1209,
+    5.193,
+    -331.7285
+   ]
+  },
+  {
+   "scene": "Laboratory_DesignStuff",
+   "name": "Plastic_suitcase_64_open (1)",
+   "position": [
+    -233.175,
+    0.023,
+    -294.687
+   ]
+  },
+  {
+   "scene": "Laboratory_DesignStuff",
+   "name": "Plastic_suitcase_64_open (1)",
+   "position": [
+    -173.848,
+    4.637,
+    -384.2896
+   ]
+  },
+  {
+   "scene": "Laboratory_DesignStuff",
+   "name": "INTERACTIVE_Gas_Cylinder_01_Red_A",
+   "position": [
+    -267.306,
+    4.135,
+    -313.31
+   ]
+  }
+ ]
+}

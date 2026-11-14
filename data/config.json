@@ -1,0 +1,25 @@
+{
+  "QuestsEnabled": true,
+  "QuestsOnlyDuringHalloween": false,
+  "Hide2024EventQuests": true,
+  "DisableBuiltInHalloweenEvent": false,
+  "InfectedLabsEnabled": true,
+  "InfectedFactoryEnabled": true,
+  "LabsEventExtracts": true,
+  "OperationalTasksEnabled": true,
+  "Zombies": {
+    "BlackDivisionEnabled": true,
+    "BlackDivisionChance": 0.15,
+    "BlackDivisionRoles": ["infectedPmc", "infectedAssault"],
+    "BlackDivisionHealthMultiplier": 2.5,
+    "BlackDivisionHeadHealthMultiplier": 6,
+    "HeadHealthMultiplier": 4,
+    "HeadHealthRoles": ["infectedPmc", "infectedAssault", "infectedCivil", "infectedLaborant"],
+    "RetailFastVoiceChance": 0.5,
+    "BlackDivisionRetailVoice": true,
+    "BlackDivisionPowerfulStrike": true,
+    "ScreamerChance": 0.08,
+    "ScreamerRoles": ["infectedAssault"],
+    "ScreamerHeadHealthMultiplier": 6
+  }
+}
