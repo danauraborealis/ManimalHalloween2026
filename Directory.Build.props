@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <ModVersion>0.1.0</ModVersion>
+    <ModVersion>1.0.0</ModVersion>
     <ModGuid>com.manimal.halloween2026</ModGuid>
     <ModAuthor>Manimal</ModAuthor>
     <ModName>Halloween2026</ModName>
